@@ -9,9 +9,9 @@ Workspace should provide a really easy way to send notifications to webhooks - w
 
 #### Prereqs:
  *Note an admin user with appropriate permissions will need to configure notifications. See https://support.google.com/a/answer/33325?hl=en*
- - [Set up email notifications for Workspace alerts.](https://support.google.com/a/answer/9288157)
- - [Create a Gmail label and a filter rule to apply it automatically to the configured notifications.](See https://support.google.com/a/users/answer/9308833?hl=en)
- - [Configure an incoming webhook in Google Chat.](See https://developers.google.com/chat/how-tos/webhooks)
+ - Set up email notifications for Workspace alerts: https://support.google.com/a/answer/9288157
+ - Create a Gmail label and a filter rule to apply it automatically to the configured notifications: https://support.google.com/a/users/answer/9308833?hl=en
+ - Configure an incoming webhook in Google Chat: https://developers.google.com/chat/how-tos/webhooks
 
 #### Steps:
  - [Create a new App Script project](https://script.new)
